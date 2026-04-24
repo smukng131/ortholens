@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sensodyne Pronamel",
+    "brand": "Sensodyne",
+    "ingredients": ["Sodium Fluoride", "Potassium Nitrate", "Glycerin", "Hydrated Silica", "Sorbitol"],
+    "bestFor": ["sensitivity", "enamel protection", "braces"],
+    "score": 90,
+    "reason": "Good option for enamel protection and sensitivity support during orthodontic treatment."
+  },
+  {
+    "name": "Colgate Cavity Protection",
+    "brand": "Colgate",
+    "ingredients": ["Sodium Fluoride", "Calcium Carbonate", "Sorbitol", "Sodium Lauryl Sulfate"],
+    "bestFor": ["fluoride", "cavity prevention", "braces"],
+    "score": 85,
+    "reason": "Simple fluoride toothpaste focused on cavity prevention, which is useful for braces."
+  },
+  {
+    "name": "Boka Nano-Hydroxyapatite Toothpaste",
+    "brand": "Boka",
+    "ingredients": ["Hydroxyapatite", "Xylitol", "Glycerin", "Hydrated Silica"],
+    "bestFor": ["hydroxyapatite", "fluoride-free", "enamel support"],
+    "score": 78,
+    "reason": "Hydroxyapatite-based option for enamel support, but mineral-source quality should still be considered."
+  },
+  {
+    "name": "Tom's of Maine Fluoride Toothpaste",
+    "brand": "Tom's of Maine",
+    "ingredients": ["Sodium Fluoride", "Glycerin", "Calcium Carbonate", "Xylitol"],
+    "bestFor": ["fluoride", "gentle", "cavity prevention"],
+    "score": 82,
+    "reason": "Fluoride-based option with a relatively simple ingredient profile."
+  }
+]
